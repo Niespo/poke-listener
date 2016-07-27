@@ -1,6 +1,7 @@
 Installation
 ===
-1. npm install
+npm install
 
 Running
 ===
+node index.js
