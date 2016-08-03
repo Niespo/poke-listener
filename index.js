@@ -1,5 +1,5 @@
 (function (global) {
-    var ENDPOINT_QUERY = 'http://pokelive.io/api/data?lat1=51.19473325880419&lat2=51.024017692266746&lng1=16.686121201171886&lng2=17.359033798828136',
+    var ENDPOINT_QUERY = 'http://pokelive.io/api/data?lat1=51.16497890127201&lat2=51.077595826175425&lng1=16.87855360473634&lng2=17.20814344848634',
         POKE_LANG = require('./data/pokemons.json'),
         config = require('./config.json');
 
